@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "ghrepl"
+name = "arepl"
 version = "0.1.0"
